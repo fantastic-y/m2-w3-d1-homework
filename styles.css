@@ -334,15 +334,12 @@ footer #nondisclaimer .social .fa-instagram {
     width: 150px;
     padding-left: 35px;
 }
-#contact button{
-    display:block;
-    margin: 20px 0 10px 840px;
-    width: 120px;
-    height: 35px;
-    font-weight: bold;
-    color: #fff;
-    /*background-color: #4977D1;*/
+#submit {
+    width: 100px;
+    height: 45px;
+    margin-left: 830px;
 }
+/*js*/
 #timeofday {
     height: 50px;
     font-family: Arial, Helvetica, sans-serif;
@@ -357,7 +354,9 @@ footer #nondisclaimer .social .fa-instagram {
     color:#3a3a3a
 }
 .randomcode {
-    margin:  20px 0 10px 700px;
+    width: 50%;
+    text-align: right;
+    margin-left: 550px;
 }
 .randomcode input {
     height: 30px;
